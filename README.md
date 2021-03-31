@@ -12,9 +12,15 @@
 ![33](https://user-images.githubusercontent.com/56239989/113124534-cde71300-923f-11eb-9f71-d2de3fe9ab1b.jpg)
 ## 4. Membuat CSS External dengan membuat file baru berextensi .css.
 - **Perubahanya** :
+
 ![44 1](https://user-images.githubusercontent.com/56239989/113124540-cf184000-923f-11eb-9167-a156f0728cc0.jpg)
+
    Lalu masukan Link pada file HTML
 - **Perubahanya** :
+
 ![44 2](https://user-images.githubusercontent.com/56239989/113124542-cf184000-923f-11eb-8ce5-610ee32a438d.jpg)
-## 5. 
-7. 
+## 5. Menambahkan CSS Selector pada file .css
+- **Perubahanya** :
+
+![55](https://user-images.githubusercontent.com/56239989/113125359-b65c5a00-9240-11eb-8d60-942365a562cf.jpg)
+
