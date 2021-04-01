@@ -71,7 +71,7 @@
    Eksternal   = Halaman belum tampil secara sempurna hingga file CSS selesai dipanggil.
    Inline      = Inline CSS harus diterapkan pada setiap elemen
 
-4. Kedua Deklarasi akan muncul namun deklarasi CLASS akan mengikuti posisi deklarasi ID
+**4. Kedua Deklarasi akan muncul namun deklarasi CLASS akan mengikuti posisi deklarasi ID**
   **Contohnya :**
   
   ![no4x](https://user-images.githubusercontent.com/56239989/113283902-13284500-9313-11eb-8db4-cc2a48dc134b.jpg)
