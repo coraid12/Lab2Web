@@ -26,4 +26,15 @@
 ![55](https://user-images.githubusercontent.com/56239989/113125359-b65c5a00-9240-11eb-8d60-942365a562cf.jpg)
 
 ## JAWABAN PERTANYAAN TUGAS
-1. 
+1. Saya membuat Experiment Internal dan Eksternal CSS
+   - JAM DIGITAL
+   ![1](https://user-images.githubusercontent.com/56239989/113276951-795c9a00-930a-11eb-90a0-f4d463e7230b.jpg)
+   **Hasilnya** :
+   ![2](https://user-images.githubusercontent.com/56239989/113276957-7a8dc700-930a-11eb-95e2-316b46973a28.jpg)
+   - 
+   - 
+
+
+3. 
+4. 
+5. 
