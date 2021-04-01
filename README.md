@@ -50,8 +50,11 @@
 **2. Perbedaan h1 dan #intro h1 pada css**
    - **h1** digunakan untuk menunjukkan bagian yang paling penting (atau tingkat tertinggi) pada halaman, jika digunakan pada css akan terjadi perubahan dari lokasi judul paling pertama.
    - **#intro h1** digunakan untuk tempat/id yang lebih spesifik, dan dapat dipanggil pada slide html seperti ini :
-   ![123](https://user-images.githubusercontent.com/56239989/113279246-13bddd00-930d-11eb-8baf-44ead28513eb.jpg)
+   ![123](https://user-images.githubusercontent.com/56239989/113279246-13bddd00-930d-11eb-8baf-44ead28513eb.jpg) dan perubahan hanya terjadi pada area yang ditunjuk jika digunakan pada css.
    
-4. 
+3. Seluruh Deklarasi akan tampil pada browser
+
+![no3](https://user-images.githubusercontent.com/56239989/113281776-37ceed80-9310-11eb-8d35-a04d3075ca8b.jpg)
+
 5. 
 6. 
