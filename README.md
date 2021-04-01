@@ -29,7 +29,7 @@
 **1. Saya membuat Experiment Internal dan Eksternal CSS**
    - **JAM DIGITAL**
    
-   ![1](https://user-images.githubusercontent.com/56239989/113276951-795c9a00-930a-11eb-90a0-f4d463e7230b.jpg)
+   ![1](https://user-images.githubusercontent.com/56239989/113284526-f7716e80-9313-11eb-91ac-d533348154e4.jpg)
    
    **Hasilnya** :
    
