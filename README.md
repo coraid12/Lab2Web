@@ -54,7 +54,17 @@
    
 3. Seluruh Deklarasi akan tampil pada browser
 
-![no3](https://user-images.githubusercontent.com/56239989/113281776-37ceed80-9310-11eb-8d35-a04d3075ca8b.jpg)
+   ![no3](https://user-images.githubusercontent.com/56239989/113281776-37ceed80-9310-11eb-8d35-a04d3075ca8b.jpg)
+   hanya masing-masing memang mempunyai kekurangan dan kelebihan.
+   
+   **KELEBIHAN**
+   Internal    = Tidak perlu meng-upload beberapa file karena HTML dan CSS bisa digunakan di file yang sama.
+   Eksternal   = Ukuran file HTML menjadi lebih kecil dan strukturnya lebih rapi
+   Inline      = Permintaan HTTP yang lebih kecil dan berguna untuk perbaikan cepat
+   **KEKURANGAN**
+   Internal    = Perubahan hanya terjadi pada 1 halaman – tidak efisien bila Anda ingin menggunakan CSS yang sama pada beberapa file.
+   Eksternal   = Halaman belum tampil secara sempurna hingga file CSS selesai dipanggil.
+   Inline      = Inline CSS harus diterapkan pada setiap elemen
 
 5. 
 6. 
