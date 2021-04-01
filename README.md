@@ -26,18 +26,20 @@
 ![55](https://user-images.githubusercontent.com/56239989/113125359-b65c5a00-9240-11eb-8d60-942365a562cf.jpg)
 
 ## JAWABAN PERTANYAAN TUGAS
-1. Saya membuat Experiment Internal dan Eksternal CSS
-   - JAM DIGITAL
+**1. Saya membuat Experiment Internal dan Eksternal CSS**
+   - **JAM DIGITAL**
    
    ![1](https://user-images.githubusercontent.com/56239989/113276951-795c9a00-930a-11eb-90a0-f4d463e7230b.jpg)
+   
    **Hasilnya** :
    
    ![2](https://user-images.githubusercontent.com/56239989/113276957-7a8dc700-930a-11eb-95e2-316b46973a28.jpg)
    
-   - Icon Nama Berputar + Mengganti Background
+   - **Icon Nama Berputar + Mengganti Background**
    
   ![3](https://user-images.githubusercontent.com/56239989/113277394-de17f480-930a-11eb-82c5-c895acadebc4.jpg)
-    **Sytax Pemanggilan class** :
+  
+   **Sytax Pemanggilan class pada HTML** :
     
   ![4](https://user-images.githubusercontent.com/56239989/113277396-df492180-930a-11eb-898b-8c1cb4aada90.jpg)
     
