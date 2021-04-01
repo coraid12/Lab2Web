@@ -37,7 +37,9 @@
    
    - **Icon Nama Berputar + Mengganti Background**
    
-  ![3](https://user-images.githubusercontent.com/56239989/113277394-de17f480-930a-11eb-82c5-c895acadebc4.jpg)
+  ![3](https://user-images.githubusercontent.com/56239989/113284255-934eaa80-9313-11eb-88e2-4dd2f0371e5d.jpg)
+  ![3 1x](https://user-images.githubusercontent.com/56239989/113284247-9184e700-9313-11eb-9a97-43209bcf3447.jpg)
+  ![3 2x](https://user-images.githubusercontent.com/56239989/113284252-92b61400-9313-11eb-9d6d-dbaade20978c.jpg)
   
    **Syntax Pemanggilan class pada HTML** :
     
