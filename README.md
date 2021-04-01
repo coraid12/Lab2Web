@@ -47,7 +47,9 @@
    
   ![5](https://user-images.githubusercontent.com/56239989/113277400-dfe1b800-930a-11eb-85b3-8beedb261a09.jpg)
 
-
-3. 
+2. **Perbedaan h1 dan #intro h1 pada css**
+   - **h1** digunakan untuk menunjukkan bagian yang paling penting (atau tingkat tertinggi) pada halaman.
+   - **#intro h1** 
 4. 
 5. 
+6. 
