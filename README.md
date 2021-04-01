@@ -1,4 +1,4 @@
-# Tugas Pemrograman Web
+# Tugas Pemrograman Lab2Web
 
 ## 1. Membuat File baru dengan doc HTML yang disediakan. 
 - **Perubahanya** :
