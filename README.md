@@ -37,7 +37,7 @@
    
    - **Icon Nama Berputar + Mengganti Background**
    
-  ![3](https://user-images.githubusercontent.com/56239989/113284255-934eaa80-9313-11eb-88e2-4dd2f0371e5d.jpg)
+  ![3x](https://user-images.githubusercontent.com/56239989/113284678-2a1b6700-9314-11eb-8a89-16b13719b0a5.jpg)
   ![3 1x](https://user-images.githubusercontent.com/56239989/113284247-9184e700-9313-11eb-9a97-43209bcf3447.jpg)
   ![3 2x](https://user-images.githubusercontent.com/56239989/113284252-92b61400-9313-11eb-9d6d-dbaade20978c.jpg)
   
