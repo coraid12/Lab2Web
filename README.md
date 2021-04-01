@@ -39,7 +39,7 @@
    
   ![3](https://user-images.githubusercontent.com/56239989/113277394-de17f480-930a-11eb-82c5-c895acadebc4.jpg)
   
-   **Sytax Pemanggilan class pada HTML** :
+   **Syntax Pemanggilan class pada HTML** :
     
   ![4](https://user-images.githubusercontent.com/56239989/113277396-df492180-930a-11eb-898b-8c1cb4aada90.jpg)
     
@@ -47,9 +47,11 @@
    
   ![5](https://user-images.githubusercontent.com/56239989/113277400-dfe1b800-930a-11eb-85b3-8beedb261a09.jpg)
 
-2. **Perbedaan h1 dan #intro h1 pada css**
+**2. Perbedaan h1 dan #intro h1 pada css**
    - **h1** digunakan untuk menunjukkan bagian yang paling penting (atau tingkat tertinggi) pada halaman.
-   - **#intro h1** 
+   - **#intro h1** digunakan untuk tempat/id yang lebih spesifik, dan dapat dipanggil pada slide html seperti ini :
+   ![123](https://user-images.githubusercontent.com/56239989/113279246-13bddd00-930d-11eb-8baf-44ead28513eb.jpg)
+   
 4. 
 5. 
 6. 
