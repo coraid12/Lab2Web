@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- menyisipkan css eksternal -->
+<link rel="stylesheet" href="style_eksternal.css" type="text/css">
+<link rel="stylesheet" href="icon-bg.css" type="text/css">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSS Dasar</title>
+  <style>
+      body {
+          font-family: 'Open Sans', sans-serif;
+      }
+      header {
+          min-height: 80px;
+          border-bottom: 1px solid #77CCEF;
+      }
+      h1 {
+          font-size: 50px;
+          color: #ffffff;
+          text-align: center;
+          padding: 20px 10px;
+      }
+      h1 i {
+          color: #fbff00;
+      }
+  </style>
+  </head>
+  <body>
+      <!--Icon Nama-->
+    <div class="ring">
+        FAHMI
+        <span></span>
+    </div>
+
+
+      <header>
+          <h1>CSS Internal dan <i>Inline CSS</i></h1>
+      </header>
+      <nav>
+          <a href='lab2_css_dasar.html'>CSS Dasar</a>
+          <a href='lab2_css_eksternal.html'>CSS Eksternal</a>
+          <a href='lab1_tag_dasar.html'>HTML Dasar</a>
+      </nav>
+      <!--CSS ID Selector-->
+      <div id="intro">
+          <h1>Hello World</h1>
+          
+          <p style="text-align: center; color: #ccd8e4;"> Kami Sedang Belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman Web</b>di<i> Universitas Pelita Bangsa</i>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML dan CSS</p>
+          <!--CSS Class Selector-->
+          <a class="button btn-primary" href="#intro">Informasi Selengkapnya.</a>
+      </div>
+      <!--Latihan Penggabungan Internal,Eksternal dan Inline CSS-->
+<div id="gabung">
+    <h1>Latihan Penggabungan elemen</h1>
+  
+    <p style="text-align: center; color: yellow;"><b>Ini paragraf percobaan Penggabungan Internal,Eksternal dan Inline CSS</b></p>
+    
+    <p id="paragraf-1" class="text-paragraf">Latihan ID dan Class dengan dua deklarasi CSS</p>
+    
+    <!--EXPERIMENT JAM DIGITAL-->
+    <style>
+        <style>
+                h1,h2,p,a{
+                    font-family: sans-serif;
+                    font-weight: normal;
+                }
+             
+                .jam-digital {
+                    overflow: hidden;
+                    width: 330px;
+                    margin: 20px auto;
+                    border: 5px solid #6d6d6d;
+                }
+                .kotak{
+                    float: left;
+                    width: 110px;
+                    height: 100px;
+                    background-color: #000000;
+                }
+                .jam-digital p {
+                    color: rgb(255, 230, 0);
+                    font-size: 40px;
+                    text-align: center;
+                    margin-top: 30px;
+                }   
+             
+            </style>
+             
+            <div class="jam-digital">
+                <div class="kotak">
+                    <p id="jam"></p>
+                </div>
+                <div class="kotak">
+                    <p id="menit"></p>
+                </div>
+                <div class="kotak">
+                    <p id="detik"></p>
+                </div>
+            </div>
+             
+            <script>
+                window.setTimeout("waktu()", 1000);
+             
+                function waktu() {
+                    var waktu = new Date();
+                    setTimeout("waktu()", 1000);
+                    document.getElementById("jam").innerHTML = waktu.getHours();
+                    document.getElementById("menit").innerHTML = waktu.getMinutes();
+                    document.getElementById("detik").innerHTML = waktu.getSeconds();
+                }
+            </script>
+    </style>
+</div>
+
+        
+  </body>
+  </html>
